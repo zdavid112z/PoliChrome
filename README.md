@@ -4,4 +4,8 @@ A game about the contrast between colors. You play as someone with a gun that ca
 
 # Screenshots
 
+![alt text](https://raw.githubusercontent.com/zdavid112z/PoliChrome/master/public/polichrome1.jpg)
 
+![alt text](https://raw.githubusercontent.com/zdavid112z/PoliChrome/master/public/polichrome2.jpg)
+
+![alt text](https://raw.githubusercontent.com/zdavid112z/PoliChrome/master/public/polichrome3.jpg)
