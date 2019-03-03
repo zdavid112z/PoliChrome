@@ -1,0 +1,45 @@
+map level3.png
+player_x 96
+player_y 576
+font /fonts/mfnt4.fnt /fonts/mfnt4.png
+text 96 560 0 0 Yellow_creates_a_force_field
+text 96 600 0 0 This_makes_you_invulnerable
+text 2912 736 0 0 Purple_also_kills_walkers
+advancer 210 24
+power 20 22 0 400 0 0 0 0 0
+walker 25 25 40 25 1
+walker 33 13 38 13 1
+saw 68 25
+saw 69 25
+saw 70 25
+saw 81 7
+saw 49 12
+saw 52 21
+walker 58 25 64 25 1
+clear 88 25
+power 90 25 0 200 0 0 0 400 0
+walker 88 20 92 20 1
+walker 87 15 90 15 1
+walker 99 12 101 12 1
+walker 88 7 91 7 1
+walker 107 25 110 25 1
+walker 114 25 120 25 1
+walker 118 10 121 10 1
+clear 134 15
+power 136 15 0 200 0 0 0 400 0
+saw 142 13
+saw 147 21
+saw 155 20
+walker 143 25 150 25 1
+walker 158 15 162 15 1
+walker 166 21 172 21 1
+walker 188 21 194 21 1
+walker 185 25 188 25 1
+saw 187 23
+button 87 7 127 15 1 0.005 5 0 8 -72 0 0 -160 1344 0 0 304
+button 111 25 125 15 1 0.005 3 0 8 440 0 0 -328
+button 122 24 124 15 1 0.005 3 0 8 56 0 0 -296
+button 122 10 126 15 1 0.005 3 0 8 120 0 0 52
+button 196 21 193 13 1 0.005 5 0 8 56 0 0 -256 -160 0 0 -16
+button 196 13 170 25 1 0.005 7 0 8 56 0 0 256 448 0 0 128 -1344 0 0 -16
+button 164 25 195 25 1 0.005 3 0 40 984 0 0 -48

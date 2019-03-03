@@ -1,0 +1,58 @@
+map level1.png
+player_x 64
+player_y 640
+font /fonts/mfnt4.fnt /fonts/mfnt4.png
+text 128 640 0 0 Use_AD_to_walk
+text 650 832 0 0 Press_SPACE_or_W_to_jump
+text 2150 810 0 0 Saws_hurt_you._Jump_over_them
+text 2150 850 0 0 These_are_checkpoints
+text 3812 1120 0 0 Buttons_open_doors._Find_the_buttons
+text 4548 1088 0 0 Walkers_hurt_you._Avoid_them
+advancer 229 13
+saw 73 30
+saw 74 30
+saw 75 30
+saw 73 31
+saw 74 31
+saw 75 31
+saw 80 30
+saw 81 30
+saw 82 30
+saw 80 31
+saw 81 31
+saw 82 31
+saw 87 30
+saw 88 30
+saw 89 30
+saw 87 31
+saw 88 31
+saw 89 31
+saw 90 30
+saw 91 30
+saw 92 30
+saw 90 31
+saw 91 31
+saw 92 31
+saw 87 20
+saw 88 20
+saw 89 20
+saw 90 20
+saw 80 20
+saw 81 20
+saw 82 20
+saw 83 20
+saw 73 20
+saw 74 20
+saw 75 20
+saw 76 20
+clear 121 37
+clear 68 27
+clear 142 36
+button 135 41 135 36 1 0.01 5 0 8 56 0 0 -128 -64 0 0 -44
+button 135 16 136 36 1 0.01 5 0 8 56 0 0 416 -32 0 0 120
+walker 150 37 153 37 1
+walker 158 37 161 37 1
+walker 166 37 169 37 1
+walker 174 37 176 37 1
+walker 180 37 182 37 1
+walker 186 37 188 37 1

@@ -1,0 +1,69 @@
+map level4.png
+player_x 192
+player_y 576
+font /fonts/mfnt4.fnt /fonts/mfnt4.png
+text 130 560 0 0 Blue_makes_you_move_cubes
+text 130 600 0 0 Click_on_a_cube_to_move_it
+text 130 640 0 0 You_cannot_move_them_while_jumping
+text 1300 640 0 0 Sometimes_you_have_to_be_quick
+text 3330 512 0 0 Press_Q_to_thorw_cubes_while_using_orange
+box 288 672
+button 6 22 19 22 0 0.0011 3 0 16 408 0 0 -16
+power 13 22 0 0 400 0 0 0 0 0
+clear 22 22
+button 52 22 53 26 0 0.01 3 0 14 24 0 0 14
+button 49 22 50 26 0 0.01 3 0 14 24 0 0 14
+button 46 22 47 26 0 0.03 3 0 14 24 0 0 14
+box 896 256
+box 1728 256
+saw 34 6
+saw 49 6
+walker 28 17 31 17 0.4
+walker 52 17 55 17 0.4
+power 31 22 0 0 600 0 0 0 0 0
+clear 57 26
+power 62 26 0 0 600 0 0 0 0 0
+walker 72 26 74 26 1
+walker 78 26 80 26 1
+walker 84 26 86 26 1
+button 60 26 103 17 0 0.003 7 0 8 1146 0 0 -160 96 0 0 -128 128 0 0 -16
+saw 71 10
+saw 72 10
+saw 73 10
+saw 74 10
+saw 77 10
+saw 78 10
+saw 79 10
+saw 80 10
+saw 83 10
+saw 84 10
+saw 85 10
+saw 86 10
+saw 89 10
+saw 90 10
+saw 91 10
+saw 92 10
+box 3200 192
+clear 106 17
+power 109 17 0 0 350 0 700 0 0
+button 122 19 134 25 0 0.003 9 0 8 -40 0 0 -192 -456 0 0 128 328 0 0 256 544 0 0 -16
+box 4000 736
+button 123 7 142 8 1 0.005 7 0 8 -72 0 0 -192 576 0 0 96 96 0 0 16
+button 134 5 152 14 1 0.005 9 0 8 -40 0 0 -128 192 0 0 96 128 0 0 -64 288 0 0 272
+box 4000 800
+saw 140 18
+saw 132 5
+clear 161 7
+clear 169 25
+box 5485 608
+box 6048 352
+box 6080 224
+box 6656 768
+power 172 25 0 0 300 0 600 0 0
+button 179 21 180 25 1 0.01 3 0 14 24 0 0 14
+button 190 21 191 25 1 0.01 3 0 14 24 0 0 14
+button 201 21 202 25 1 0.01 3 0 14 24 0 0 14
+saw 191 17
+walker 199 16 202 16 0.4
+saw 201 10
+advancer 215 14
